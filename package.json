@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "moment-timezone": "^0.5.47",
+    "nodemon": "^3.1.9",
+    "os": "^0.1.2",
+    "uuid": "^11.0.5"
+  },
+  "name": "apawi-practica04",
+  "version": "1.0.0",
+  "description": "Practica 04 de sessions ",
+  "main": "app.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sayurid Bautista Cruz",
+  "license": "ISC"
+}
